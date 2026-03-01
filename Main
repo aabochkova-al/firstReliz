@@ -10,8 +10,18 @@ public class FirstReliz {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int age = 16;
+        String name = "Alexandra";
         System.out.println("Hello from Olechka");
         System.out.println("Hello from Sashka");
-    }
-    
+
+        public void method(){
+            if(age<18){
+            Sistem.out.println("too small");
+            } else{
+            Sistem.out.println("norm");
+            }
+        }
+        Sistem.out.println("My name is " + name);
+        method();
 }
