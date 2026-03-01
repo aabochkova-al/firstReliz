@@ -1,2 +1,1 @@
-println("Hello world!")
-
+Sistem.out.println("Hello world!");
